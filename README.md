@@ -1,4 +1,4 @@
-(MENU PAGE)[https://nikolalubarda.github.io/REACT-Show-hide-menu/]
+[MENU PAGE](https://nikolalubarda.github.io/REACT-Show-hide-menu/)
 
 # React + Vite
 
